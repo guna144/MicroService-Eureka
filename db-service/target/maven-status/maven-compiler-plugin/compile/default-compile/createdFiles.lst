@@ -1,0 +1,5 @@
+net\visionvalley\model\Quote.class
+net\visionvalley\resource\DbServiceResource.class
+net\visionvalley\model\Quotes.class
+net\visionvalley\DbServiceApplication.class
+net\visionvalley\repository\QuotesRepository.class
